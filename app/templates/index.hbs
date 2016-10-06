@@ -1,6 +1,9 @@
 
 {{#each model as |resource|}}
-  <div>{{resource.category}}</div>
+  <div>
+    <a href="{{resource.href}}">{{resource.title}}</a>
+    <p>{{resource.description}}</p>
+  </div>
 {{/each}}
 
 <h4>JAVASCRIPT (Vanilla)</h4>
