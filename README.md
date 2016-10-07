@@ -1,10 +1,21 @@
 # Dev-resources
 
-Web development resources app.
+Site with links to blogs, tutorials, examples training etc I've collected that I've found useful.
 
-## Prerequisites
+...soon to be live at [www.devresources.online](www.devresources.online)
 
-You will need the following things properly installed on your computer.
+## To do...
+
+* Get basic (MVP 1) site live as simple links
+* Complete short descriptions of each resource
+* Menu/navbar links to each relevant area eg. js, node, ember etc
+* Finish rendering dynamically through ember route/component from data in JSON format to make updating/maintaining easier
+
+...and then maybe rebuild in ReactJS as I've never built anything using it yet!
+
+## Built with EmberJS framework so...
+
+...you will need the following things properly installed on your computer.
 
 * [Git](http://git-scm.com/)
 * [Node.js](http://nodejs.org/) (with NPM)
