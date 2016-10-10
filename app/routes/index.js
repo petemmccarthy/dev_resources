@@ -5,7 +5,6 @@ export default Ember.Route.extend({
   model() {
 
     return [
-
       {
         "id": 0,
         "category": "Javascript",
@@ -119,7 +118,6 @@ export default Ember.Route.extend({
         "href": "https://spin.atomicobject.com/2014/10/20/javascript-scope-closures/",
         "description": "...a good description of differences."
       }
-
     ];
 
   }
