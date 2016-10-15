@@ -1,6 +1,7 @@
 
 body {
-  font-family: monospace;
+  /*font-family: monospace;*/
+  font-family: monaco ;
   background-color: #fff;
   margin: 0 50px 50px 50px;
 }
@@ -10,12 +11,11 @@ body {
 }
 .menu-link {
   display: inline;
+  font-size: 20px;
 }
 
-a {
-  /*display: block;*/
+.link {
   font-size: 16px;
-  margin-top: 5px;
 }
 
 .section-heading {
