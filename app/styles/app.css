@@ -1,6 +1,5 @@
 
 body {
-  /*font-family: monospace;*/
   font-family: monaco ;
   background-color: #fff;
   margin: 25px 50px 50px 50px;
@@ -31,7 +30,7 @@ li:nth-child(odd) > a {
   color: green;
 }
 
-.link {
+.links {
   font-size: 16px;
 }
 
