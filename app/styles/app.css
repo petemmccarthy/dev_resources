@@ -22,6 +22,10 @@ a:hover {
   font-size: 17px;
 }
 
+a:visited {
+    decoration: none;
+}
+
 li:nth-child(even) > a {
   color: red;
 }
