@@ -9,9 +9,26 @@ body {
 #menu {
 
 }
+
 .menu-link {
   display: inline;
   font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  font-size: 17px;
+}
+
+li:nth-child(even) > a {
+  color: red;
+}
+
+li:nth-child(odd) > a {
+  color: green;
 }
 
 .link {
